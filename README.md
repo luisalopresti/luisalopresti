@@ -40,7 +40,7 @@
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalopresti&show_icons=true&theme=simple&hide_title=true&rank_icon=github)
 
 
-#### :envelope: Contacts:
+### :envelope: Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalopresti/)  
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1096-9108)
