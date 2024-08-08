@@ -2,7 +2,7 @@
 
 ### About me :computer: :chart_with_upwards_trend: 
 
-:arrow_right: I am a PhD researcher in Data Science 
+:arrow_right: I am a PhD researcher in Data Science. 
 
 :arrow_right: I study spatial data analytics and I am interested in its applications in the field of urban development, mobility, and sustainability. :seedling:
 
@@ -34,10 +34,10 @@
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalopresti&show_icons=true&layout=compact&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalopresti&show_icons=true&layout=compact&theme=simple)
 
 ### Public Repository Stats
-![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalopresti&show_icons=true&theme=vue&hide_title=true&rank_icon=github)
+![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalopresti&show_icons=true&theme=simple&hide_title=true&rank_icon=github)
 
 
 #### :envelope: Contacts:
