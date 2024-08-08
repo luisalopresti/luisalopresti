@@ -9,7 +9,7 @@
 :arrow_right: I am based at Maynooth University, and working with [SFI Centre for Research Training in Foundations of Data Science](https://www.data-science.ie/user/luisa+lo+presti/).
 
 
-#### :star_struck: I am enthusiastic about:
+#### I am enthusiastic about:
 
 :earth_africa: Geospatial Analysis
 
