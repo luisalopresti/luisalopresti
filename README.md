@@ -15,7 +15,7 @@
 
 :bar_chart: Data Science
 
-:brain: Machine learning & Deep Learning
+:brain: Machine Learning & Deep Learning
 
 :cityscape: Environment & Sustainable Development
 
