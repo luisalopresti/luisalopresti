@@ -1,4 +1,4 @@
-### Hi! :wave: I'm Luisa
+### Hi there! :wave: I'm Luisa
 
 ### About me :computer: :chart_with_upwards_trend: 
 
@@ -36,9 +36,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalopresti&show_icons=true&layout=compact&theme=simple)
 
+<!--
 ### Public Repository Stats
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalopresti&show_icons=true&theme=simple&hide_title=true&rank_icon=github)
-
+-->
 
 ### Contacts :envelope: 
 
